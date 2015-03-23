@@ -12,5 +12,6 @@ Then release the mouse press. Initial version shows, what all letters we have ho
 The line beneath shows the suggestions from dictionary.
 
 Planned features(as of now):
-Add a new word to dictionary
-Able to select word from the list of suggestions(from dictionary)
+Add a new word to dictionary.
+Able to select word from the list of suggestions(from dictionary).
+Improve the accuracy of suggestions?
